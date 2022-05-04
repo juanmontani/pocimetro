@@ -1,4 +1,4 @@
-# Bienvenido a Pocimetro App
+# Bienvenido a Pocímetro App
 
 Aquí se encontrará información relevante de la aplicación.
 
