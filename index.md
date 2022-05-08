@@ -4,7 +4,7 @@ Here you will find relevant information about the application.
 
 ## PRIVACY POLICY
 
-All information collected by the application can be freely used by the team in an anonymized way. Only statistical information can be sheared to third parties.
+All information collected by the application can be freely used by the team in an anonymized way. Only statistical information can be shared to third parties.
 
 ### Collected information
 
